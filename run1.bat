@@ -1,0 +1,1 @@
+C:\uczelnia\dropbox_client\dropbox_client\bin\Debug\dropbox_client.exe Sebastian C:\uczelnia\Testowy1

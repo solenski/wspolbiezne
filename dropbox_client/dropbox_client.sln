@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dropbox_client", "dropbox_client\dropbox_client.csproj", "{345159B2-D00E-4BDF-BD4C-8A10E74C3ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shared_objects", "..\dropbox_server\shared_objects\shared_objects.csproj", "{82CEF595-F7E3-44D3-8581-FD54A79527B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345159B2-D00E-4BDF-BD4C-8A10E74C3ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345159B2-D00E-4BDF-BD4C-8A10E74C3ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345159B2-D00E-4BDF-BD4C-8A10E74C3ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345159B2-D00E-4BDF-BD4C-8A10E74C3ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CEF595-F7E3-44D3-8581-FD54A79527B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CEF595-F7E3-44D3-8581-FD54A79527B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CEF595-F7E3-44D3-8581-FD54A79527B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CEF595-F7E3-44D3-8581-FD54A79527B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A123EEA6-46BB-4CBE-913E-EF372EBFC66D}
+	EndGlobalSection
+EndGlobal
